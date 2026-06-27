@@ -6,7 +6,7 @@ A modern cybersecurity web application that analyzes password strength in real-t
 
 ## 📸 Preview
 
-![CipherCheck UI](assets/ChatGPT Image Jun 27, 2026, 01_09_38 PM.png)
+![CipherCheck UI]([assets/ChatGPT Image Jun 27, 2026, 01_09_38 PM.png](https://github.com/chirag476/CipherCheck/blob/main/password/assets/ChatGPT%20Image%20Jun%2027%2C%202026%2C%2001_09_38%20PM.png))
 
 ---
 
