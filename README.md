@@ -6,7 +6,7 @@ A modern cybersecurity web application that analyzes password strength in real-t
 
 ## 📸 Preview
 
-![CipherCheck UI](assets/1ed8b3ab-e774-4734-9187-7b4273a099e8.png)
+![CipherCheck UI](assets/1ed8b3ab-e774-4734-9187-7b4273a099e8.png](https://github.com/chirag476/CipherCheck/blob/main/password/assets/1ed8b3ab-e774-4734-9187-7b4273a099e8.png)
 
 ---
 
